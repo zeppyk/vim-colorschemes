@@ -10,15 +10,7 @@ one stop shop for vim colorschemes.
 this was [originally] harvested from vim.org. only colorschemes downloaded in a single `.vim`
 file are included.
 
-for hacking on vim.org harvesting see the branch [prep](https://github.com/flazz/vim-colorschemes/tree/prep).
-
-Policy
-------
-- honor system is in effect!
-- new schemes are welcome!
-- upstream updates are accepted!
-- non-upstream updates are accepted as derivitive schemes: pick a new filename; cite the original!
-- housekeeping updates are accepted too!
+Forked from [flazz](https://github.com/flazz/vim-colorschemes).
 
 Installation
 ------------
@@ -26,7 +18,7 @@ Installation
 Basic install - very simple (*nix or cygwin install)
 
     mkdir ~/.vim
-    git clone https://github.com/flazz/vim-colorschemes.git ~/.vim
+    git clone https://github.com/zeppyk/vim-colorschemes.git ~/.vim
 
 if you [use vim + pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
 
@@ -72,11 +64,11 @@ There are quite a few colorschemes in this. To preview them on your live code in
 Something missing? Fork!
 ------------------------
 
-fork [this repo](http://github.com/flazz/vim-colorschemes); send a
+fork [this repo](http://github.com/zeppyk/vim-colorschemes); send a
 pull request!; I'll take it!
 
 - - -
 
 I'm a slave to aesthetics. If you are too, I hope this helps.
 
-[email](mailto:flazzarino@gmail.com)
+[email](mailto:karo@webi.ro)
