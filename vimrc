@@ -42,4 +42,4 @@ set expandtab
 set shiftwidth=2
 set autoindent
 set smartindent
-set colorscheme duoduo
+colorscheme duoduo
